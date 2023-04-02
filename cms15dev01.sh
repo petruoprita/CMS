@@ -9,7 +9,7 @@
 
 #terminal commands
 #------
-#wget https://raw.githubusercontent.com/melongist/CSL/master/CMS/cms15dev01.sh
+#wget https://raw.githubusercontent.com/petruoprita/CMS/main/cms15dev01.sh
 #bash cms15dev01.sh
 #------
 
@@ -94,7 +94,7 @@ sudo apt install -y python3-cups
 sudo apt install -y python3-pypdf2
 
 
-wget https://raw.githubusercontent.com/melongist/CSL/master/CMS/cms-master-20220516CSL.tar
+wget https://raw.githubusercontent.com/petruoprita/CMS/main/cms-master-20220516CSL.tar
 
 tar xvf cms-master-20220516CSL.tar
 mv cms-master-20220516CSL cms
